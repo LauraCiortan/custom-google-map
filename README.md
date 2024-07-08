@@ -1,10 +1,6 @@
-# custom-google-map
-
-This project demonstrates a custom Google Map with custom marker.
-
 # DevProjects - Build a custom google maps theme
 
-This is an open source project from [DevProjects](http://www.codementor.io/projects).
+This is an open source project from [DevProjects](http://www.codementor.io/projects) and demonstrates a custom Google Map with custom marker.
 Find the project requirements here: [Build a custom google maps theme](https://www.codementor.io/projects/web/build-a-custom-google-maps-theme-bf8levr6eg)
 
 ## Tech/framework used
